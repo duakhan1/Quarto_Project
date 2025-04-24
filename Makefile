@@ -27,5 +27,6 @@ report:
 clean:
 	rm -f output/*
 	rm -f data/clean/*
+	rm -rf docs
 	rm -f index.html
 	rm -f *.pdf
